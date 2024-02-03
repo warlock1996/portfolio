@@ -1,75 +1,18 @@
-# Nuxt 3 Minimal Starter
+---
+title: 'Introduction'
+description: 'My Name is arslan'
+---
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Hello there 👋
 
-## Setup
+<br/>
 
-Make sure to install the dependencies:
+### I am Arslan, a software engineer with 4 years of experience in the software industry. my focus has been full-stack web development with Vue.js, React.js, Typescript & Node.js.
 
-```bash
-# npm
-npm install
+<br/>
 
-# pnpm
-pnpm install
+##### I wrote and maintained several different projects while working for different software companies and agencies. I have the expereince of working in-house with the team and as a solo developer on freelance projects.
 
-# yarn
-yarn install
+<br/>
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+##### I enjoy learning about latest technologies, spending time with my family & friends.
