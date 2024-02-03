@@ -17,6 +17,8 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     // https://nuxt.com/modules/vueuse
     '@vueuse/nuxt',
+    // https://image.nuxt.com/get-started/installation
+    '@nuxt/image',
   ],
 
   // https://tailwindcss.nuxtjs.org/getting-started/configuration

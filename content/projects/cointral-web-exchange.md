@@ -4,6 +4,7 @@ description: 'Cointral exchange is web based crypto exchange, Cointral has been 
 slug: 'cointral-web-exchange'
 repoUrl: ''
 projectUrl: 'https://www.cointral.com/en'
+image: '/cointral.svg'
 ---
 
 # Cointral Web Exchange

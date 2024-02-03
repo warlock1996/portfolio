@@ -4,7 +4,8 @@ description: 'expense tracker to track the total expense, balance, with transact
 slug: 'expense-tracker-app'
 repoUrl: 'https://github.com/warlock1996/xpense-tracker'
 projectUrl: 'http://expensetracker_arslanali.surge.sh/'
-draft: true
+# draft: false
+image: '/expense.svg'
 ---
 
 # Expense Tracker

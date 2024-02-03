@@ -4,7 +4,8 @@ description: 'Genius Workflow App'
 slug: 'genius-workflow-app'
 repoUrl: ''
 projectUrl: 'https://geniusworkfow.com'
-draft: true
+# draft: true
+image: '/geniusworkflow.svg'
 ---
 
 

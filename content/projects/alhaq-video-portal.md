@@ -4,6 +4,7 @@ description: 'Alhaq is an education project that gathers and hosts free online c
 slug: 'alhaq-video-portal'
 repoUrl: ''
 projectUrl: 'https://alhaq.world/'
+image: '/alhaq.svg'
 ---
 
 # Alhaq Video Portal

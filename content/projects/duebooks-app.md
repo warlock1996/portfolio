@@ -4,7 +4,8 @@ description: 'duebooks'
 slug: 'duebooks-app'
 repoUrl: ''
 projectUrl: 'https://duebooks.com'
-draft: true
+# draft: false
+image: '/duebooks.jpg'
 ---
 
 # DueBooks

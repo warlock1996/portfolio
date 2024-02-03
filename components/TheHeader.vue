@@ -15,9 +15,14 @@ const color = computed(() => {
   <!-- theme switch -->
   <ThemeSwitcher />
   <!-- the avatar -->
-  <div class="mx-auto w-[12rem] h-[12rem] mt-4 mb-12">
-    <img src="/avatar.jpeg" loading="lazy" alt="avatar" class="rounded-full ring-offset-2 ring-2 ring-gray-400" />
-  </div>
+  <NuxtLink to="/">
+    <NuxtImg
+      src="/avatar.jpeg"
+      placeholder
+      alt="avatar"
+      class="rounded-full ring-offset-2 ring-2 ring-gray-400 w-[12rem] h-[12rem] mx-auto mt-4 mb-12 cursor-pointer"
+    />
+  </NuxtLink>
   <!-- social links -->
 
   <!-- the navigation links -->

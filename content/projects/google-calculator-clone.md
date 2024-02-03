@@ -5,6 +5,7 @@ slug: 'google-calculator-clone'
 repoUrl: 'https://github.com/warlock1996/google-calculator-clone'
 projectUrl: 'https://penitent-opinion.surge.sh/'
 draft: true
+image: '/google.svg'
 ---
 
 # Google Calculator Clone
